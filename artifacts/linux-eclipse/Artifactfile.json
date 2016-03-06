@@ -1,0 +1,14 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Azure/azure-devtestlab/master/schemas/2015-01-01/dtlArtifacts.json",
+    "title": "eclipse",
+    "description": "Install eclipse on Linux",
+    "tags": [
+        "Eclipse",
+        "Linux"
+    ],
+    "iconUri": "https://eclipse.org/artwork/images/v2/logo-800x188.png",
+    "targetOsType": "Linux",
+    "runCommand": {
+            "commandToExecute": "['sh linux_install_eclipse_v1.sh']"
+    }
+}
