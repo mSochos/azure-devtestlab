@@ -6,7 +6,7 @@
         "MongoDB",
         "Linux"
     ],
-    "iconUri": "https://raw.githubusercontent.com/Azure/azure-devtestlab/master/Artifacts/linux-install-mongodb/mongoDBArtifact.png",
+    "iconUri": "https://www.mongodb.com/assets/MongoDB_Brand_Resources/MongoDB-Logo-7db53b4037f9953e9df4f694c758141fcfa022cee1d2ff50749d133d0b70b692.jpg",
     "targetOsType": "Linux",
     "runCommand": {
             "commandToExecute": "['sh linux_install_mongodb_v1.sh']"
