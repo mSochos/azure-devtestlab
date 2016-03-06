@@ -6,7 +6,7 @@
     "Windows",
     "PuTTy"
   ],
-  "iconUri": "https://cdn.rawgit.com/ferventcoder/chocolatey-packages/02c21bebe5abb495a56747cbb9b4b5415c933fc0/icons/7zip.svg",
+  "iconUri": "http://sevenzip.sourceforge.net/logos/7z_rm01.jpg",
   "targetOsType": "Windows",
   "runCommand": {
     "commandToExecute": "powershell.exe -ExecutionPolicy bypass -File startChocolatey.ps1 -PackageList 7zip.install"
