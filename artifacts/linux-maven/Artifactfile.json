@@ -1,0 +1,14 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Azure/azure-devtestlab/master/schemas/2015-01-01/dtlArtifacts.json",
+    "title": "maven",
+    "description": "Install Maven on Linux",
+    "tags": [
+        "Maven",
+        "Linux"
+    ],
+    "iconUri": "http://www.mkyong.com/wp-content/uploads/2012/04/maven-logo.png",
+    "targetOsType": "Linux",
+    "runCommand": {
+            "commandToExecute": "['sh linux_install_maven_v1.sh']"
+    }
+}
