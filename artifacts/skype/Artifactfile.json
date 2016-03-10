@@ -10,7 +10,7 @@
   "iconUri": "https://chocolatey.org/content/packageimages/skype.7.15.0.102.png",
   "targetOsType": "Windows",
   "runCommand": {
-    "commandToExecute": "powershell.exe -Executionpolicy bypass -File startChocolatey.ps1 -PackageList skype"
+    "commandToExecute": "powershell.exe -Executionpolicy bypass -File startChocolatey.ps1 -PackageList skype.install"
  
   }
 }
